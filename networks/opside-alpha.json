@@ -3,6 +3,6 @@
     "title": "Public zkEVM",
     "url": "https://public.zkevm.opside.info/",
     "group": "Testnets",
-    "icon": "https://github.com/opside-protocol/blockscout-opside-assets/raw/main/assets/icons/opside_public_zkevm_logo.svg"
+    "icon": "https://github.com/opside-protocol/blockscout-opside-assets/raw/master/assets/icons/opside_public_zkevm_logo.svg"
   }
 ]
